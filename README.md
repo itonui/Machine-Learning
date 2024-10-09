@@ -1,5 +1,5 @@
 # MPG Prediction Using Linear Regression and Gradient Descent
-Dataset link https://archive.ics.uci.edu/dataset/9/auto+mpg
+Dataset link https://archive.ics.uci.edu/dataset/9/auto+mpg.
 This project involves building and comparing two regression models to predict the miles per gallon (MPG) of cars based on various features such as weight, horsepower, displacement, etc. The models implemented are:
 
 - **Model 1**: A traditional Linear Regression model using Scikit-learn's `LinearRegression` class.
